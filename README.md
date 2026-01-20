@@ -17,3 +17,9 @@ PCB & Schematic:
 
 Everything should fit together using 5 M3 Bolts and heatset inserts.
 
+BOM:
+1x Seeed XIAO RP2040
+4x Blank DSA keycaps (White)
+2x SK6812 MINI-E LEDs
+
+
