@@ -4,7 +4,7 @@ Hackpad for the Hack Club Project
 
 CAD Model:
 
-<img width="2846" height="1556" alt="image" src="https://github.com/user-attachments/assets/e5ecb615-86ea-4ccf-a398-9344c524e1bf" />
+<img width="1423" height="778" alt="Screenshot 2026-01-19 at 8 21 11 PM" src="https://github.com/user-attachments/assets/1ce2b05b-3532-45fa-bc54-2050ce84ab02" />
 <img width="1423" height="778" alt="Screenshot 2026-01-19 at 8 19 57 PM" src="https://github.com/user-attachments/assets/d8eee8c7-ed83-4102-91c5-c89974e37a74" />
 
 
