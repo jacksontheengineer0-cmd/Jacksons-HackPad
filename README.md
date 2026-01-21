@@ -17,7 +17,7 @@ PCB & Schematic:
 <img width="1453" height="1038" alt="Screenshot 2026-01-20 at 7 45 18 PM" src="https://github.com/user-attachments/assets/a8a736c2-4bd7-4529-9b4c-f2ac9302befd" />
 
 
-Everything should fit together using 5 M3 Bolts and heatset inserts.
+Everything should fit together using 4 M3 Bolts and heatset inserts.
 
 BOM:
 1x Seeed XIAO RP2040
