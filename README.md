@@ -14,8 +14,9 @@ CAD Model:
 
 PCB & Schematic:
 
-<img width="1453" height="1038" alt="Screenshot 2026-01-20 at 7 45 04 PM" src="https://github.com/user-attachments/assets/41649156-ff99-445b-93f2-1c0aa6b2dcdb" />
-<img width="1453" height="1038" alt="Screenshot 2026-01-20 at 7 45 18 PM" src="https://github.com/user-attachments/assets/a8a736c2-4bd7-4529-9b4c-f2ac9302befd" />
+<img width="596" height="733" alt="Screenshot 2026-01-21 at 5 02 22 PM" src="https://github.com/user-attachments/assets/97e2db7d-f4a7-4905-a705-52b06551d630" />
+<img width="850" height="750" alt="Screenshot 2026-01-21 at 5 02 35 PM" src="https://github.com/user-attachments/assets/b6098029-290f-4350-83a9-dec7659ce553" />
+
 
 
 Everything should fit together using 4 M3 Bolts and heatset inserts.
